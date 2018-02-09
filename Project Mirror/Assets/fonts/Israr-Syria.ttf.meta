@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 12cdef19f055ad2419b927fcdaa2673d
+timeCreated: 1503526930
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Israr-Syria
+  fontNames:
+  - Israr-Syria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
